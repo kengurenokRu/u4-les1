@@ -1,6 +1,6 @@
 const boss = 'Anastasia';
 const name = boss;
-alert("Добрый день "+boss);
+alert(`Добрый день ${boss}`);
 
 let perem = ""+ 2 + 0; //добавление к пустой строке суммы двух числе, приведенных к строке
 console.log(perem);
